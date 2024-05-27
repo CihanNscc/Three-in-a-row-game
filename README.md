@@ -1,3 +1,5 @@
+![ThreeInARow](https://github.com/CihanNscc/Three-in-a-row-game/assets/113132289/73d85bd7-c07a-4844-ac5c-d50844aa60d7)
+
 # Three in a Row Game
 
 Welcome to the Three in a Row game! This is a simple yet engaging puzzle game built with React and Vite. The game involves placing tiles in a row and ensuring they follow the game rules. You can change tiles by left and/or right-clicking, check for mistakes, and solve the puzzle with a single click.
