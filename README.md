@@ -1,4 +1,4 @@
-![ThreeInARow](https://github.com/CihanNscc/Three-in-a-row-game/assets/113132289/73d85bd7-c07a-4844-ac5c-d50844aa60d7)
+![ThreeInARowPreview](https://github.com/CihanNscc/Three-in-a-row-game/assets/113132289/b47a48c0-79e9-4d27-b174-1ec1bbfb4744)
 
 # Three in a Row Game
 
